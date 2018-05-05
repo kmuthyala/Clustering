@@ -1,0 +1,6 @@
+c:\users\k25120\documents\visual studio 2013\Projects\Clustering\Clustering\bin\Debug\Clustering.exe.config
+c:\users\k25120\documents\visual studio 2013\Projects\Clustering\Clustering\bin\Debug\Clustering.exe
+c:\users\k25120\documents\visual studio 2013\Projects\Clustering\Clustering\bin\Debug\Clustering.pdb
+c:\users\k25120\documents\visual studio 2013\Projects\Clustering\Clustering\obj\Debug\Clustering.csprojResolveAssemblyReference.cache
+c:\users\k25120\documents\visual studio 2013\Projects\Clustering\Clustering\obj\Debug\Clustering.exe
+c:\users\k25120\documents\visual studio 2013\Projects\Clustering\Clustering\obj\Debug\Clustering.pdb
